@@ -4,3 +4,4 @@ school
 SchOol
 aaaSchool
 Schooloonon
+SchoolSchool
