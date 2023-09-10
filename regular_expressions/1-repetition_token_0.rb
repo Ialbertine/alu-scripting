@@ -1,5 +1,2 @@
 #!/usr/bin/env ruby
-
-#Match the regex
-regex = /School/
-puts ARGV[0].scan(/School/).join  
+puts ARGV[0].match(/hbt{2,5}n/) 
