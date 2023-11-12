@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''Defines  recursive function to return hot posts in subreddit
+'''Define  recursive function to return hot posts in subreddit
 '''
 import requests
 
